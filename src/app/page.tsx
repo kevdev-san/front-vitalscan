@@ -69,7 +69,7 @@ export default function HomePage() {
         <div className="relative w-full max-w-lg ml-auto pr-10 pb-6">
           <div className="relative rounded-4xl overflow-hidden shadow-2xl border-12 border-white">
             <img
-              src="https://lh3.googleusercontent.com/aida-public/AB6AXuAt3TJNURQftk7B3ZUJtjrmRiHZi73sXMkGvU_tzlz3nLjamJZQaIUrT5n6y9VY0ipOz5HHEGV0RkG_MzNSq8SX65iwi3uU0sgEyiwBsZEdaZCArLD66abcxaZHxsSOcUhtH26oflP8bmJdxM6LkvAVGr9E5UqvO6-0j_MHoXHASU8_UEYNHNvvRDs6loTgX27AnFxTcAOHPKCGzkBVm1I7IfD3sZe4QZ0TwUXBAMyn-2DqjuDbfJlIYs9UisQ5wEOLbkjicQ1Gphk"
+              src="/logo.jpeg"
               alt="VitalScan Plataforma Médica"
               className="w-full aspect-square object-cover"
             />
