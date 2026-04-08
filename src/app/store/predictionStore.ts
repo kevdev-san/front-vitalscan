@@ -28,9 +28,9 @@ interface PredictionStore {
 // ── Defaults ───────────────────────────────────────────
 
 const defaultForm: FormData = {
-  age:           35,
-  bmi:           24.0,
-  HbA1c_level:   5.5,
+  age:           1,
+  bmi:           10.0,
+  HbA1c_level:   3.0,
   hypertension:  0,
   heart_disease: 0,
 };
