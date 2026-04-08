@@ -82,7 +82,7 @@ export default function HomePage() {
             </div>
             <div>
               <p className="text-xs font-bold text-slate-400 uppercase">Precisión</p>
-              <p className="text-lg font-extrabold text-slate-800">98.2%</p>
+              <p className="text-lg font-extrabold text-slate-800">94.5%</p>
             </div>
           </div>
         </div>
